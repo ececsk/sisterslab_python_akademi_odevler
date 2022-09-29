@@ -1,1 +1,1 @@
-# sisterslab_python_akademi_odevler
+Sisterslab Python Eğitimi kapsamında verilen ödevleri içermektedir.
