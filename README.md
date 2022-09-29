@@ -1,1 +1,1 @@
-Sisterslab Python Eğitimi kapsamında verilen ödevleri içermektedir.
+SistersLab Python Eğitimi kapsamında verilen ödevleri içermektedir.
